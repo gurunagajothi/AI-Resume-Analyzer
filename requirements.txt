@@ -1,1 +1,5 @@
-requirements.txt
+streamlit
+scikit-learn
+matplotlib
+PyPDF2
+nltk
